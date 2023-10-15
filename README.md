@@ -1,9 +1,5 @@
-<h1>Hi There!!! <figure class="gif"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"></figure></h1>
-
-<!--
-**LuizOtaviano/LuizOtaviano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1>Hi There!!! 👋</h1>
+<p>Meu nome e Luiz Otaviano, sou um estudante de ciência da computação na UNIFAJ</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
