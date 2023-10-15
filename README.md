@@ -1,4 +1,4 @@
-<h1>Hi There!!! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"></h1>
+<h1>Hi There!!! <figure class="gif"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"></figure></h1>
 
 <!--
 **LuizOtaviano/LuizOtaviano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
